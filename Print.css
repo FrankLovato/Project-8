@@ -64,6 +64,9 @@ header img{
     background-repeat: repeat;
   }
     article{
-        width:800px;
+        width:95%;
         text-align: left;
+    }
+    footer{
+        display: none;
     }
